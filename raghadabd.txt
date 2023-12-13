@@ -1,0 +1,39 @@
+play Video:
+.Implement the functionallity to watch the selected in website
+
+
+YouTube Interation:
+.Provide an optionto watch the video on You Tube for users Who prefer that plaform
+
+
+Share Video:
+.Add a share button to enable users to easily share the video on social media or other platforms
+
+
+
+Commenting:
+.Allow users to leave written comments on the video
+
+
+Viewing Comments:
+.Display existing comments with information on who posted them and how long ago
+.Include option to replay to comments and like them
+
+
+
+Load More Comments:
+.Implement a "Load More Comments " to handel an expanding list of comments
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Body Related Video
+
+Related Video :
+.Implement a section displaying related video to the one selected enhacing user angagement and content discovert
+
+
+
+Video Information:
+.Show details information about the selected video including time, user , number of view and title
+
+
